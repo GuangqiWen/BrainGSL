@@ -2,7 +2,7 @@
 
 This repo is the official implementation of [Graph Self-supervised Learning with Application to Brain Networks Analysis](https://ieeexplore.ieee.org/document/10122156) which is accepted at IEEE Journal of Biomedical and Health Informatics.
 
-![image](https://user-images.githubusercontent.com/59217361/195616636-a5e55d26-5aeb-4b5a-bd0d-7505bd522834.png)
+![image](https://github.com/GuangqiWen/BrainGSL/blob/main/JBHI-over2.pdf)
 
 # Citations
 
